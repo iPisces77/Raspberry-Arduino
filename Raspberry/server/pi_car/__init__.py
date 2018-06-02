@@ -1,5 +1,5 @@
 import sqlite3
-from flask import Flask, request, session, g, redirect, url_for,
+from flask import Flask, request, session, g, redirect, url_for, \
 abort, render_template, flash
 from contextlib import closing
 
@@ -25,7 +25,7 @@ def init_db():
 #    db.close()
 #    g.db.close()
 
-import  pi_car.views
+import  pi_car.views1.0
 
 if __name__=='__main__':
   app.run()
