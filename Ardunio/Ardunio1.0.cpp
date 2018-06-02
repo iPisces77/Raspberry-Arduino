@@ -1,11 +1,3 @@
-/**
- * Copyright(C), 2018-2038, KenRobot.com
- * FileName: sketch_may30a.ino
- * Author: 啃萝卜
- * Create: 2018/05/31
- * Modify: 2018/05/31
- */
- 
 void Forword() {
     digitalWrite(13, HIGH);
     digitalWrite(12, LOW);
