@@ -1,0 +1,10 @@
+C:\Users\fuhai\Desktop\piCar\新建文件夹 (2)\piCar-master\client\csharp\PiCar\obj\Debug\WangHeng.Org.PiCar.csprojAssemblyReference.cache
+C:\Users\fuhai\Desktop\piCar\新建文件夹 (2)\piCar-master\client\csharp\PiCar\obj\Debug\WangHeng.Org.PiCar.MainFrm.resources
+C:\Users\fuhai\Desktop\piCar\新建文件夹 (2)\piCar-master\client\csharp\PiCar\obj\Debug\WangHeng.Org.PiCar.Properties.Resources.resources
+C:\Users\fuhai\Desktop\piCar\新建文件夹 (2)\piCar-master\client\csharp\PiCar\obj\Debug\WangHeng.Org.PiCar.csproj.GenerateResource.cache
+C:\Users\fuhai\Desktop\piCar\新建文件夹 (2)\piCar-master\client\csharp\PiCar\obj\Debug\WangHeng.Org.PiCar.csproj.CoreCompileInputs.cache
+C:\Users\fuhai\Desktop\piCar\新建文件夹 (2)\piCar-master\client\csharp\PiCar\bin\Debug\PiCar.exe.config
+C:\Users\fuhai\Desktop\piCar\新建文件夹 (2)\piCar-master\client\csharp\PiCar\bin\Debug\PiCar.exe
+C:\Users\fuhai\Desktop\piCar\新建文件夹 (2)\piCar-master\client\csharp\PiCar\bin\Debug\PiCar.pdb
+C:\Users\fuhai\Desktop\piCar\新建文件夹 (2)\piCar-master\client\csharp\PiCar\obj\Debug\PiCar.exe
+C:\Users\fuhai\Desktop\piCar\新建文件夹 (2)\piCar-master\client\csharp\PiCar\obj\Debug\PiCar.pdb
